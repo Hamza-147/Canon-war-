@@ -1,0 +1,9 @@
+ 1-------Use Arrow keys to move player-
+ 2-------Use space r left mouse button to fire-
+ 3-------Press 4 to puase during game-
+ 4-------Press 2 to resume.
+ 4-------Enjoy the game-
+ 5-------Goodluck----------
+ --------------------------
+ --------------------------
+ 
